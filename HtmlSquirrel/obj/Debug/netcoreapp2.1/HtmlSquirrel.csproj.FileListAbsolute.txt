@@ -1,0 +1,13 @@
+F:\Projects\HtmlSquirrel\HtmlSquirrel\bin\Debug\netcoreapp2.1\HtmlSquirrel.deps.json
+F:\Projects\HtmlSquirrel\HtmlSquirrel\bin\Debug\netcoreapp2.1\HtmlSquirrel.runtimeconfig.json
+F:\Projects\HtmlSquirrel\HtmlSquirrel\bin\Debug\netcoreapp2.1\HtmlSquirrel.runtimeconfig.dev.json
+F:\Projects\HtmlSquirrel\HtmlSquirrel\bin\Debug\netcoreapp2.1\HtmlSquirrel.dll
+F:\Projects\HtmlSquirrel\HtmlSquirrel\obj\Debug\netcoreapp2.1\HtmlSquirrel.csprojAssemblyReference.cache
+F:\Projects\HtmlSquirrel\HtmlSquirrel\obj\Debug\netcoreapp2.1\HtmlSquirrel.csproj.CoreCompileInputs.cache
+F:\Projects\HtmlSquirrel\HtmlSquirrel\obj\Debug\netcoreapp2.1\HtmlSquirrel.AssemblyInfoInputs.cache
+F:\Projects\HtmlSquirrel\HtmlSquirrel\obj\Debug\netcoreapp2.1\HtmlSquirrel.AssemblyInfo.cs
+F:\Projects\HtmlSquirrel\HtmlSquirrel\bin\Debug\netcoreapp2.1\PanGu.Core.dll
+F:\Projects\HtmlSquirrel\HtmlSquirrel\bin\Debug\netcoreapp2.1\PanGu.Lucene.Analyzer.dll
+F:\Projects\HtmlSquirrel\HtmlSquirrel\bin\Debug\netcoreapp2.1\PanGu.Core.pdb
+F:\Projects\HtmlSquirrel\HtmlSquirrel\bin\Debug\netcoreapp2.1\PanGu.Lucene.Analyzer.pdb
+F:\Projects\HtmlSquirrel\HtmlSquirrel\obj\Debug\netcoreapp2.1\HtmlSquirrel.csproj.CopyComplete

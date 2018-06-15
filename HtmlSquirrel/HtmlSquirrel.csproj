@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.2.2" />
+    <PackageReference Include="Lucene.Net" Version="4.8.0-beta00005" />
+    <PackageReference Include="NETCore.Encrypt" Version="2.0.7" />
+    <PackageReference Include="NSoupCore" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PanGu.Core">
+      <HintPath>..\..\Lucene.Net.Analysis.PanGu-netcore2.0\Lucene.Net.Analysis.PanGu-netcore2.0\src\PanGu.Lucene.Analyzer\bin\Release\netstandard2.0\PanGu.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="PanGu.Lucene.Analyzer">
+      <HintPath>..\..\Lucene.Net.Analysis.PanGu-netcore2.0\Lucene.Net.Analysis.PanGu-netcore2.0\src\PanGu.Lucene.Analyzer\bin\Release\netstandard2.0\PanGu.Lucene.Analyzer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
